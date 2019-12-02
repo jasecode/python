@@ -1,0 +1,12 @@
+https://knoxportal-qa.samsungknox.com/en/partners
+https://knoxportal-qa.samsungknox.com/en/faq/faqallif-i-buy-monthly-subscription-through-knox-marketplace-how-am-i-notified-my-charges
+https://knoxportal-qa.samsungknox.com/en/faq/how-can-it-admins-assign-apps-users-and-keep-track-app-license-usage
+https://knoxportal-qa.samsungknox.com/en/faq/faqall-devcan-i-use-android-virtual-device-avd-simulate-knox-containerknox10
+https://knoxportal-qa.samsungknox.com/en/support/knox-premium/faqs?field_faq_category_tid=All&page=10
+https://knoxportal-qa.samsungknox.com/en/support/knox-premium/faqs?field_faq_category_tid=All&page=11
+https://knoxportal-qa.samsungknox.com/en/support/knox-premium/faqs?field_faq_category_tid=All&page=12
+https://knoxportal-qa.samsungknox.com/en/faq/how-do-i-get-knox-premium
+https://knoxportal-qa.samsungknox.com/en/faq/can-i-only-upgrade-portion-my-users-knox-express-knox-premium
+https://knoxportal-qa.samsungknox.com/en/faq/how-much-does-each-knox-solution-cost
+https://knoxportal-qa.samsungknox.com/en/faq/how-can-i-purchase-knox-iam-or-fixmo-safezone
+https://knoxportal-qa.samsungknox.com/en/support/knox-premium/faqs?field_faq_category_tid=All&page=15
